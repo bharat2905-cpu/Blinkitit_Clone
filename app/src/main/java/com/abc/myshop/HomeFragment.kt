@@ -22,7 +22,7 @@ class HomeFragment : Fragment() {
 
     private fun setStatusBarColor(){
         activity?.window?.apply {
-            val statusBarColors = ContextCompat.getColor(requireContext(), R.color.yellow)
+            val statusBarColors = ContextCompat.getColor(requireContext(), R.color.orange)
             statusBarColor = statusBarColors
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M){
                 decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
