@@ -1,7 +1,7 @@
 package com.abc.myshop.models
 
 data class Users(
-    val uid : String ? = null,
+    var uid : String ? = null,
     val userPhoneNumber : String ? = null,
     val userAddress : String ? = null,
 )

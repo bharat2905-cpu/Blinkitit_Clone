@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "391089908477",
-    "project_id": "myshop-da276",
-    "storage_bucket": "myshop-da276.firebasestorage.app"
+    "project_number": "1055178951746",
+    "firebase_url": "https://bamboo-diode-414911-default-rtdb.firebaseio.com",
+    "project_id": "bamboo-diode-414911",
+    "storage_bucket": "bamboo-diode-414911.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:391089908477:android:f2ccae9b6587ae3ac7ac94",
+        "mobilesdk_app_id": "1:1055178951746:android:8175dc5412f8f8a226b1db",
         "android_client_info": {
           "package_name": "com.abc.myshop"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDeuESIw2gMELU5OLBbIMqpgHVQqpC1zGI"
+          "current_key": "AIzaSyAxDRjiAJV31BL5Mnu4pOwq7VOv4jmDP0I"
         }
       ],
       "services": {
